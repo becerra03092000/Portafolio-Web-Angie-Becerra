@@ -1,0 +1,1487 @@
+*{
+box-sizing: border-box; margin: 0;padding: 0;background-repeat:no-repeat
+}
+
+body {
+    background-image: url(imagenes/fondo.png); 
+    margin: 0;
+    padding: 0%;
+    background-repeat:no-repeat;
+    background-size: cover; 
+} 
+
+.body2{
+    background-image: url(imagenes/fond2.png);
+    background-size: cover;
+
+}
+
+
+.body3{
+    background-image: url(imagenes/fon3.png);
+}
+
+
+
+.bodyblog {background-image: url(imagenes/fondblog.png);   background-size: cover;}
+
+
+
+.body03{
+    background-image: url(imagenes/fond03.png);
+}
+
+
+.body4{
+    background-image: url(imagenes/fondio.png);
+}
+
+.clasimg {margin-top: 3%; padding-bottom: 5%;}
+
+
+.espacioarr{margin-top: 5%;}
+
+
+.barra{
+    background-color: #070718d7;
+}
+
+.container-fluid 
+    {margin: 0%;}
+
+.btn-primary{
+    height: 103px;font-size:16px;
+    padding-top: 2%;
+    background-color:#07071800;
+    border: none;
+    border-bottom: none;
+}
+
+.nombre{
+    background-color: aquag;
+    padding-top:380px; color:white ; 
+    height: 500px;
+    font-family: 'milestone';
+    padding-left:30px ;}
+
+.nombre h2{
+    font-size: 50px;}
+
+@font-face {
+    font-family:'milestone';
+    src: url(fuentes/MilestoneBrush.ttf);
+}
+
+
+@font-face {
+    font-family:'monserrat';
+    src: url(fuentes/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family:'monserratb';
+    src: url(fuentes/Montserrat-Bold.ttf);
+}
+   
+   h2{
+    margin:0% 5% 0% 5%
+}
+
+   p{
+    margin:0% 5% 0% 5%
+}
+
+   h3{
+    margin:0% 5% 0% 5%
+}
+ 
+  
+
+.parrafo{
+    background-color: krgb(172, 127, 255); 
+    color:white;
+    padding-left:30px;
+}
+
+.caja1{
+    background-color: krgb(194, 141, 255);
+}
+
+.bordes{
+    background-color: laquamarine;
+}
+
+.bordes2{
+    background-color: lrgba(45, 110, 89, 0.205);
+}
+
+.caja3{ height:500px;
+    background-color: krgb(0, 31, 131);
+}
+
+.caja3 img{ .caja3{ height:500px;
+    background-color: krgb(0, 31, 131);
+}
+
+}
+
+
+
+
+
+
+
+
+.caja4{ background-color: krgb(108, 182, 201);
+    height: 650px;
+}
+
+.granEsp{background-color: lrgb(62, 179, 142);
+    height: 700px;
+}
+
+.caja6{background-color: kaquamarine;
+    height:716px;
+}
+
+.caja7{
+    background-color: jrgb(94, 97, 247);
+    margin: 0%;
+}
+
+
+.espaciooo{margin: 0%;}
+
+.caja8{
+    background-color: kbisque;
+}
+
+.parrafo2{ 
+    height: 20%; 
+    padding-top: 6%;
+    color: white; 
+    text-align: justify;
+    font-family:'monserrat';
+    background-color: jrgb(22, 88, 88);
+    
+}
+
+.parrafo2{ 
+    height: 20%; 
+    padding-top: 6%;
+    color: white; 
+    text-align: justify;
+    font-family:'monserrat';
+   
+    
+}
+
+
+
+.parrafo2{ 
+    height: 20%; 
+    padding-top: 6%;
+    color: white; 
+    text-align: justify;
+    font-family:'monserrat';
+    background-color: jrgb(22, 88, 88);
+    
+}
+
+
+.parrafo2m { 
+   
+   
+    color: white; 
+    text-align: justify;
+    font-family:'monserrat';
+   
+    
+}
+
+.parrafo2ms{
+    height: 20%; 
+    margin-top: 10%;
+    margin-bottom: 5%;
+    color: white; 
+    text-align: justify;
+    font-family:'monserrat';
+    padding-bottom: 1%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .parrafo2 h2{
+        font-family:'monserratb';
+         margin:0% 5% 0% 5%;
+}
+
+    .parrafo2 p{
+        margin:2% 5% 0% 5%
+}
+
+    .parrafo2 a
+    {margin-left: 20%;
+     margin-top:3%;
+     width: 100px;
+    border-radius: 100px;}
+    
+
+    .parrafo3{
+    background-color:#02020faf; 
+    color:rgb(255, 255, 255);
+    height:400px;
+    padding-top:5%;
+    text-align: justify; 
+    font-family:'monserrat'
+}
+
+
+.parrafo99{
+ 
+    color:rgb(255, 255, 255);
+    height:300px;
+    padding-top:1%;
+    text-align: justify; 
+    font-family:'monserrat'
+}
+
+
+.parrafo33{
+ 
+    color:rgb(255, 255, 255);
+    height:100%;
+    padding-top:5%;
+    text-align: justify; 
+    font-family:'monserrat';
+    padding-bottom: 5%;
+}
+
+
+
+.parrafo3tt{
+  
+    color:rgb(255, 255, 255);
+    height:400px;
+    padding-top:5%;
+    text-align: justify; 
+    font-family:'monserrat'
+}
+
+
+
+
+
+
+    .parrafo3 h2{
+        margin: 0% 5% 0% 5%;
+        font-family:'monserratb';
+        padding-top: 1%
+}
+
+
+    .parrafo3 p{
+        margin: 1% 5% 0% 5%;
+}
+
+
+    .titulo0{
+        background-color: kaquamarine;
+        height: 200px; 
+        padding-top: 50px;
+        color: white;
+        text-align:center;
+}
+
+    .titulo0 h2{
+        font-family:'monserrat';
+        font-size:30px 
+}
+
+    .titulo0 h3{
+        color: rgb(188, 187, 248);
+         font-family:'monserratb';
+}
+
+
+.fotdes1{
+    background-color: lrgb(20, 85, 85);
+    height:500px;
+}
+
+
+.fotdes1 img{
+    margin:0% 2% 2% 2%
+}
+
+
+
+.fotdes2{ 
+    background-color: laqua;
+    height:500px;}
+
+
+.fotdes2 img{
+    margin:0% 2% 2% 2%;
+    
+}
+
+  
+.espcf{
+    background-color: kquamarine;
+    margin-top: -3% ;
+}
+
+
+.esplad{
+    background-color: kgb(225, 127, 255);
+}
+
+.bodes{
+    background-color: kisque;
+}
+
+
+
+.barrazul2{
+    background-color:#02020faf;
+}
+
+.barrazulf{background-color:#02020faf;}
+
+.lat{
+    color:white;
+    height: 200px;
+}
+
+.foott{
+    background-image: url(imagenes/footer.png);
+    background-color:rgb(5, 23, 105) ;
+}
+
+.centrarSlider { 
+    display: flex;
+    justify-content: center;}
+
+.bot2{
+    background-color: kaquamarine;
+    padding: 80px;
+}
+
+.btn-light{width: 200px;height: 60px; font-size:16px;
+    padding-top: 20px;
+    background-color:rgb(106, 90, 255);
+    border: none;
+    color: white;
+    font-family: 'milestone';
+    font-size: 25px;
+    
+}
+
+    .espiconos{ margin:10px;
+        padding-top: 20%;
+    }
+   
+.lat a{
+    margin: 0% 5% 0% 5%;
+
+}
+.lat h2{
+    padding-top: 15%;
+}
+
+
+
+ /* PARTE SERVICIOS */
+
+ .video-background2 {
+    position: absolute;
+    margin: 0%;
+    left: 0;
+    width: 100%;
+    height: 520%;
+    z-index: -1;
+    overflow: hidden;
+    opacity: 0.5; 
+    top:0%
+}
+
+
+
+.video-background266 {
+    position: absolute;
+    margin: 0%;
+    left: 0;
+    width: 100%;
+    height:150%;
+    z-index: -1;
+    overflow: hidden;
+    opacity: 0.5; 
+    top:0%
+}
+
+
+.video-background {
+    position: absolute;
+    top: 1770px;
+    left: 0;
+    width: 100%;
+    height: 150%;
+    z-index: -1;
+    overflow: hidden;
+    opacity: 0.7; 
+
+}
+.espaciado {
+    margin-bottom: 360px; /* Ajusta el espacio entre las filas */
+}
+
+
+
+@media (max-width: 768px) {
+    .barrbajaar {
+        display: none; /* Oculta las columnas en pantallas pequeñas si no son necesarias */
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.video-background5{ position: absolute;
+    margin: 0%;
+    left: 0;
+    width: 100%;
+    height: 550%;
+    z-index: -1;
+    overflow: hidden;
+    opacity: 0.5; 
+    top:0%}
+
+    
+.video-background6{ position: absolute;
+    margin: 0%;
+    left: 0;
+    width: 100%;
+    height: 400%;
+    z-index: -1;
+    overflow: hidden;
+    opacity: 0.5; 
+    top:0%}
+
+
+.video-background3 {
+    position: absolute;
+    margin: 0%;
+    left: 0;
+    width: 100%;
+    height: 838%;
+    z-index: -1;
+    overflow: hidden;
+    opacity: 0.5; 
+    top:0%
+
+}
+
+#bg-video {
+    position: absolute;
+   
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+}
+
+
+ .parrafo2s{ 
+    height:500px;
+padding-top: 0%;
+    color: white; 
+    text-align: justify;
+    font-family:'monserrat';
+    background-color: lrgb(22, 88, 88);
+    
+}
+
+
+.parrafo2 h2{
+    font-family:'monserratb';
+     margin:5% 5% 0% 5%;
+}
+
+
+.parrafo2{ 
+    height:500px;
+padding-top: 0%;
+    color: white; 
+    text-align: justify;
+    font-family:'monserrat';
+    background-color: lrgb(22, 88, 88);
+    
+}
+
+
+
+.parrafo2s a{
+    margin-left: 16%;
+     margin-top:5%;
+     width: 100px;
+    border-radius: 100px;}
+
+
+
+.caja3s{ 
+        
+        background-color: lrgb(122, 148, 231);
+}
+
+.caja3s img{ margin-top: 5%;
+    max-width: 100%;
+    height: auto;}
+
+
+
+    .caja5s img{ max-width: 100%;
+        height: auto;
+        
+        background-color: frgba(122, 147, 231, 0.5);
+}
+
+
+
+    .caja5ss img{margin-top: 20%;margin: 0%;padding-bottom: 20%;
+        max-width: 100%;
+        height: auto;}
+
+    
+
+
+
+.bordes2s{ background-color: lrgba(45, 110, 89, 0.205);
+
+}
+
+
+.bajzz{padding-bottom: 5%;}
+
+
+.parrs a{margin-top: 5%;
+width:80px;
+height: 60px;
+border-radius: 90px;}
+
+.parrs{
+    background-color: krgb(172, 127, 255); 
+    color:white ;
+    text-align: center;
+   
+    height: 900px}
+
+ .bordess{
+    background-color: lab(from color l a b);
+}
+
+
+
+
+.image-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.img-base, .img-hover {
+    width: 100%;
+    display: block;
+}
+
+.img-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.image-container:hover .img-hover {
+    opacity: 0.8; /* Ajusta la opacidad según tus preferencias */
+}
+
+.image-container:hover .img-base {
+    opacity: 0.1; /* Opcional: Ajusta la opacidad de la imagen base en el hover */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.titul1{
+    background-color: aquag;
+    padding-top:15%; 
+    color:white ; 
+    height: 50%;
+    font-family: 'milestone';
+    text-align: center;
+    background-color: ñaquamarine; }
+
+.titul1 h1{
+    font-size: 100px;
+    background-color: ñaqua;}
+
+.parr{
+    background-color: jrgb(172, 127, 255); 
+    color:white ;
+    text-align: center;
+    padding-top:60px;
+    height: 180px}
+
+.Ofrezco{
+    background-color: ñrgb(172, 127, 255);
+     color:white ;
+     text-align: center;
+     padding-top:10px;
+     height:70px;
+     font-family:'monserratb';
+     font-size: 30px;
+    }
+    
+.diseñod{
+    background-color: ñrgb(76, 56, 114); 
+    color:white ;
+    text-align: center;
+    padding-top:10px;
+    height:200px; 
+    font-family:'monserrat';
+}
+
+
+
+
+
+
+
+
+.linea{
+    text-decoration:underline;
+    text-decoration:underline;color: rgb(197, 187, 255);
+}
+
+
+.fotdes2{  
+    
+    width: 530px;transition: all .3s ease;
+}
+
+
+.fotdes2:hover{
+    transform: perspective(250px)rotateX(10deg); 
+    translate:(-5%);
+    opacity: 0.8;
+}
+
+.fotdes2 :hover img:last-child{
+    opacity:0.5;
+    transform: translateY(10%);
+     
+}
+
+.parraflarg{margin-top: 2%;
+   
+    color:white;
+    height:100%; 
+      
+    font-family:'monserrat'}
+
+.parraflargs{
+    margin-top: 2%;
+    margin-bottom: 5%;
+    
+    color:white;
+    height:100%; 
+      
+    font-family:'monserrat'}
+
+
+.tiposdetat{ margin-top: 2%;margin-bottom: 2%;
+   
+    color:white;
+    height:100%;  
+    font-family:'monserrat'
+    
+}
+
+
+
+.footer-img {
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border 0.3s ease;
+    border: 2px solid transparent;
+    border-radius: 50px;
+}
+
+.footer-img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    border: 2px solid #ffffff; border-radius: 50px;
+    opacity: 0.2;
+}
+
+/* movimiento img */
+
+.imagen-movimiento {
+    position: relative;
+    animation: mover-horizontal 5s infinite alternate;
+    max-width: 100%; 
+    opacity: 0.2; 
+    
+}
+
+@keyframes mover-horizontal {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: 600px; 
+    }
+}
+
+
+.parrafo2 {
+    position: relative; /* Esto asegura que el video de fondo se posicione dentro de la sección */
+    overflow: hidden; /* Esto es opcional, por si quieres cortar el video a los límites de la sección */
+}
+
+
+.parrafo25 {color: #fff;}
+
+
+
+.video-background {
+    position: absolute;
+    top: 1770px;
+    left: 0;
+    width: 100%;
+    height: 150%;
+    z-index: -1;
+    overflow: hidden;
+    opacity: 0.7; 
+
+}
+
+#bg-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+}
+
+.parrafo2 article {
+    position: relative; /* Esto asegura que el contenido esté sobre el video */
+    z-index: 1; /* Coloca el contenido encima del video */
+}
+
+
+/* PARTE proyectos */
+
+.barrazulh{padding-top: 10%;height: 400px;
+    ;
+}
+
+.color{ background-color:#02020faf}
+.parrafo22{ 
+    height:310px;
+margin-top: 90px;
+    color: white; 
+    text-align: justify;
+    font-family:'monserrat';
+ 
+  
+}
+
+.parrafoacri{ 
+    height: 100%; 
+    padding-top: 6%;
+    color: white; 
+   
+    font-family:'monserrat';
+    background-color: krgb(22, 88, 88);
+    
+}
+
+.parrafoacri h2{
+    padding-top: 10%;
+   
+  
+    
+}
+
+.parrafoacri h3{ font-family:'monserratb';}
+
+.parrafoacri p{
+    padding-bottom: 10%;
+    margin: 1% 5% 0% 5%;
+    text-align: justify;
+}
+
+
+.parrafoacri a{margin-left: 20%;}
+
+.parrafoacri img{max-width: 100%;
+    height: auto;}
+
+
+
+
+.parrafoilus{ 
+    color:rgb(255, 255, 255);
+    
+    padding-bottom: 5%;
+    text-align: justify; 
+    font-family:'monserrat'
+}
+
+.parrafoilus h2{
+    padding-top: 5%;
+    
+   }
+
+.parrafoilus h3{ 
+    font-family:'monserratb';
+    padding-bottom: 1%;
+}
+
+.parrafoilus p{
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+.botp{height: 20px;
+    background-color: laquamarine;
+    padding: 80px;
+}
+
+
+.barrazulp{height: 2px;
+    background-color: l#caa9ff;
+}
+
+
+
+.parrafo3p{
+     
+    color:rgb(255, 255, 255);
+    height:100%;
+    padding-top:5%;
+    text-align: justify; 
+    font-family:'monserrat'
+}
+
+
+
+
+
+
+
+
+
+
+
+.granEsp2p{background-color: lrgb(62, 179, 142);
+    height: 100%;
+}
+
+.titlproy{background-color: gkhaki;
+    padding-top:10%; 
+    color:white;
+
+    height:100px;
+    font-family: 'milestone';
+    text-align: center;
+    height:100% ;
+    font-size: 200em;
+}
+
+.titlproy h1{
+    font-size: 95px;}
+
+
+
+.margimg{
+    
+margin-top: 5%;} 
+
+.margimg img{max-width: 100%;
+    height: 100%; 
+    
+   } 
+
+ .tam p{ background-color: #caa9ff; }  
+
+.tam video{width:105% ;} 
+
+lord-icon{ max-width: 100%;}
+
+
+ 
+
+
+
+/* PARTE MERCH */
+
+.vides{  background-color: rgb(15, 16, 83);
+      
+    
+}
+
+
+.vides {height: 100%;}
+
+.ggg{background-color: ñaqua;
+   height: 10%;
+ 
+
+}
+
+.titulosdif h2{ font-size: 50px;font-family: 'milestone';}
+
+
+.video2-background  video{height: 100%; }
+
+
+.video2-background{
+    position: absolute;
+    top: 0px;
+    left: 0;
+    width: 100%;
+    height: 290%;
+    z-index: -1;
+    overflow: hidden;
+    opacity: 0.5; 
+
+}
+
+#bg-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+}
+
+
+.granEsp2{background-color: lrgb(62, 179, 142);
+    height: 50px;
+}
+
+
+.cajapp {height: 100%;background-color: #caa9ff;
+   
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Estilos generales para la clase hover-effect */
+.hover-effect {transition: color 0.3s ease, background-color 0.3s ease, transform 0.3s ease;
+}
+
+/* Estilo específico para los h2 con la clase hover-effect */
+.hover-effect:hover {
+    color: #caa9ff; /* Cambia el color del texto al pasar el ratón */
+    
+    transform: scale(1.05); /* Aumenta ligeramente el tamaño del texto */
+}
+
+/* Si quieres un estilo diferente para los enlaces (a) */
+.hover-effect.btn:hover {
+    color: #fff; /* Cambia el color del texto */
+    
+    transform: scale(1.1); /* Aumenta ligeramente el tamaño */
+}
+
+
+.margf{
+margin-top: 18%;}
+
+
+
+.tam{border: solid 40px; color: #0204143d;}
+
+.carousel{
+   margin: 1%;
+   height: auto;
+   max-width: 100%;
+   
+   
+}
+
+
+
+
+.centrarSlider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+.carousel-item img {
+    max-height: 500px;
+    object-fit: cover;
+}
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.carousel-item img{height: 300%;}
+
+
+
+ .probtamño img{  max-width: 100%;
+    margin: 1%;
+    height: auto;}
+
+    .tam video{ max-width: 100%;
+        height: auto;}
+
+        
+    .tam img{ max-width: 70%;
+        height: auto;}
+
+        
+
+
+
+.tam2 img {max-width: 100%;
+    height: auto;}     
+
+
+.ggg img{max-width: 100%;
+    height: auto;}
+
+
+
+
+    .margimg img {
+        width: 100%;
+        height: 100%;
+        transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.3s ease;
+    }
+    
+    .margimg:hover img {
+        transform: scale(1.1); /* Agranda la imagen un 10% */
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Aplica una sombra */
+        opacity: 0.9; /* Reduce ligeramente la opacidad */
+    }
+    
+    .centrarSlider {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    
+
+    /* HOVER ULTMA SEC PROYECTS */
+
+
+    .section {
+        background-color: #02020ce0; /* Fondo inicial */
+        padding: 20px;
+        border-radius: 10px;
+        
+        transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    
+    .section img {
+        width: 100%;
+        height: auto;
+        transition: transform 0.3s ease;
+        border-radius: 10px;
+    }
+    
+    .section h2, .section h3 {
+        margin-top: 15px;
+        transition: color 0.3s ease;
+    }
+    
+    .section p {
+        margin-top: 10px;
+        transition: color 0.3s ease;
+    }
+    
+    .section:hover {
+        background-color: #08074671; /* Cambia el fondo al hacer hover */
+        transform: translateY(-10px); /* Eleva la tarjeta */
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Aumenta la sombra */
+    }
+    
+    .section:hover img {
+        transform: scale(1.05); /* Agranda la imagen ligeramente */
+    }
+    
+    .section:hover h2, .section:hover h3, .section:hover p {
+        color: #dec1ff; /* Oscurece el texto */
+    }
+    
+
+
+    
+    .parrafo32{
+        background-color:#02020faf; 
+        color:rgb(255, 255, 255);
+        height:100%;
+        padding-top: 5%;
+        margin-top:5% ;
+        text-align: justify; 
+        font-family:'monserrat'
+    }
+
+
+    .parrafo34{
+        background-color:#02020faf; 
+        color:rgb(255, 255, 255);
+        height:1020;
+        
+        margin-top:10% ;
+        text-align: justify; 
+        font-family:'monserrat'
+    }
+
+    .parrafo34 H2{
+        margin-top:2% ;
+    }
+
+
+
+/* HOVERS DE SERVICIOS */
+    
+
+/* Estilo base para imágenes */
+.img-base {
+    position: relative;
+    transition: opacity 0.5s ease;
+}
+
+/* Estilo para la imagen en hover */
+.img-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    object-fit: cover;
+}
+
+/* Contenedor para las imágenes con hover */
+.image-container {
+    position: relative;
+    width: 100%;
+    height: auto; /* Ajusta la altura según sea necesario */
+}
+
+.image-container:hover .img-hover {
+    opacity: 1;
+}
+
+/* Efecto de zoom en la imagen de fondo */
+.bajimg {
+    transition: transform 0.5s ease;
+}
+
+.bajimg:hover {
+    transform: scale(1.1);
+}
+
+/* Efecto de desenfoque en la imagen de fondo */
+.baj2img {
+    transition: filter 0.5s ease;
+}
+
+.baj2img:hover {
+    filter: brightness(0.8);
+}
+
+
+
+
+
+
+.probtamño .granEsp2p {
+        position: relative;
+        width: fit-content;
+        max-width: 100%;
+        margin: 0 auto; /* Centra el contenedor */
+        padding: 0; /* Elimina cualquier padding que pueda estar afectando */
+    }
+    
+    .thumbnail {
+        width: 100%;
+        height: auto;
+        display: block;
+        margin: 0; /* Elimina márgenes de la imagen */
+        padding: 0;
+    }
+    
+    .hover-video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.1s ease;
+    }
+    
+    .granEsp2p:hover .hover-video {
+        opacity: 1;
+        pointer-events: auto;
+    }
+
+
+
+
+/* barra nav */
+
+
+    menu-toggle {
+        display: none
+      }
+      .barraNavBotonMenuHamburguesa{
+    
+        position: absolute; /* Permite el uso de z-index */
+        top: 0;
+        right:0%; 
+        z-index: 2;
+        cursor: pointer;
+        }
+      .menu {
+        display: none;
+        position: absolute;
+        top: 6%; /* Ajusta según sea necesario */
+        right: 0;
+        background-color: #b9d5fffb;
+        border: 2px solid #083bc7b9;
+        box-shadow: 0 4px 8px #e7deff8c;
+        z-index: 1;
+        color: #fff;
+      }
+      
+      .menu ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+      
+      .menu ul li {
+        padding: 10px;
+      }
+      
+      .menu ul li a {
+        display: block;
+      }
+      
+      .menu ul li a img{
+      width: 60%;
+      margin-left: 17%;
+      }
+      
+      .menu ul li a:hover {
+        background-color: #290ab17a;
+      }
+      
+      .menu-toggle:checked + label + .menu {
+        display: block;
+      }
+    
+    @media(max-width:960px){
+        .barrajsj{
+            display: none;
+        }
+    }
+    
+    @media(min-width:960px) and (max-width:6400px){
+        .barraNavBotonMenuHamburguesa{
+            display: none; 
+        }
+       
+    }
+    
+    .parrafo2 img{max-width: 100%;height: auto;}
+    
+   
+      /* FONDO CAMBIAR*/
+
+      @media (max-width: 742px) {
+        body {
+          background-image: url('imagenes/fondoresponsiv.png');
+          background-size: contain; /* Ajusta la imagen al tamaño del viewport */
+          
+          background-repeat: no-repeat; /* Evita que la imagen se repita */
+          background-color: rgb(5, 7, 31);
+        }
+      }
+
+      @media (max-width: 742px) {
+        .granEsp {
+          display: none;
+        }
+      }
+
+
+
+
+
+      .clasimg {
+        overflow: hidden; /* Asegura que la imagen no se salga de su contenedor */
+        text-align: center; /* Centra la imagen dentro del contenedor */
+      }
+      
+      .clasimg img {
+        transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out, border 0.3s ease-in-out;
+        max-width: 100%; /* Asegura que la imagen no exceda el ancho de su contenedor */
+        height: 100%; /* Mantiene la proporción de la imagen */
+        border: 2px solid transparent; /* Borde inicial transparente */
+        display: inline-block; /* Evita que la imagen se estire */
+      }
+      
+      .clasimg img:hover {
+        transform: scale(1.05);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+        cursor: pointer;
+        border: 2px solid #3498db; /* Color del borde al hacer hover */
+      }
+
+
+
+
+
+
+
+
+
+
+      .video-container {
+        position: relative;
+        overflow: hidden;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+
+    .video-container:hover {
+        transform: scale(1.05);
+    }
+
+    .video-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        font-size: 1.5rem;
+    }
+
+    .video-container:hover .video-overlay {
+        opacity: 1;
+    }
+
+    .video-container video {
+        width: 100%;
+        height: auto;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    
